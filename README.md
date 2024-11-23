@@ -4,7 +4,7 @@ My solutions to the assignments of the Security and Privacy course, Spring 2023,
 ## Table of Content
 - HW1
   - [Theoretical](./homeworks/hw1/spml-hw1.pdf)
-  - [NeuralNet with NumPy](./homeworks/hw1/practical/NN_numpy.ipynb)
+  - [NeuralNet with NumPy](./homeworks/hw1/practical/nn_numpy.ipynb)
 - HW2
   - [Theoretical](./homeworks/hw2/spml-hw2.pdf)
   - [CNN on CIFAR-10](./homeworks/hw2/practical/CNN.ipynb)
